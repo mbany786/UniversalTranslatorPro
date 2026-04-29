@@ -8,7 +8,7 @@ An AI-powered tool that converts PDFs (via OCR) and Webpages into polished, acad
 - **Context-Aware AI:** Uses custom system prompts to handle complex theological and Sufi terminology.\
 - **Multi-Format Export:** Saves translated content as `.txt`, `.docx`, and `.pdf`.\
 - **Progress Tracking:** Saves state during large PDF translations to allow resuming.\
-
+- **Optimized for personal computers with low CPU/GPU 
 ## Prerequisites
 You must have `poppler` installed on your system to handle PDF-to-image conversion:\
 - **Mac:** `brew install poppler`\
